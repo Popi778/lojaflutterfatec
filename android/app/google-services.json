@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21931884224",
+    "project_id": "lojafatec",
+    "storage_bucket": "lojafatec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21931884224:android:ddee0572c73bdd215c7725",
+        "android_client_info": {
+          "package_name": "com.example.loja_p2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZNN2ydLpSvGlNlQ3f_DrqshUlUM504U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

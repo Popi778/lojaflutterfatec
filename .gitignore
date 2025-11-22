@@ -1,0 +1,14 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+*.lock
+
+
+# Gerados pelo build_runner
+*.g.dart
+*.freezed.dart
